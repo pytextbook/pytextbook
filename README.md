@@ -1,15 +1,15 @@
 # pytextbook
 
 
-* 2. python-string.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/3-python-string.ipynb) 
+* 2.0. python-string.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/3-python-string.ipynb) 
 
 * 3.1. pandas.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/4.1%20pandas.ipynb) 
 
 * 3.2. numpy.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/4.2%20numpy.ipynb) 
 
-* 4. 단어 벡터화-BOW-tfidf.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/5.%20%EB%8B%A8%EC%96%B4%20%EB%B2%A1%ED%84%B0%ED%99%94-BOW-tfidf.ipynb) 
+* 4.0. 단어 벡터화-BOW-tfidf.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/5.%20%EB%8B%A8%EC%96%B4%20%EB%B2%A1%ED%84%B0%ED%99%94-BOW-tfidf.ipynb) 
 
-* 5. klue-classification.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/6.%20klue-classification.ipynb) 
+* 5.0. klue-classification.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/6.%20klue-classification.ipynb) 
 
 * 6.1. 국민청원 분석 및 시각화.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/7.1%20%EA%B5%AD%EB%AF%BC%EC%B2%AD%EC%9B%90%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) 
 
@@ -25,4 +25,4 @@
 
 * 7.2. seoul-120-baseline-rnn.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/8.2%20seoul-120-baseline-rnn.ipynb)     
 
-* 8. inflearn-newyear-event-text-analysis.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/9.%20inflearn-newyear-event-text-analysis.ipynb)         
+* 8.0. inflearn-newyear-event-text-analysis.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/9.%20inflearn-newyear-event-text-analysis.ipynb)         
