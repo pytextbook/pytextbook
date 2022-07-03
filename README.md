@@ -22,4 +22,4 @@
 
 * 7.2. seoul-120-baseline-rnn.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/7.2.%20seoul-120-baseline-rnn.ipynb) 
 
-* 8. inflearn-newyear-event-text-analysis.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/8.%20inflearn-newyear-event-text-analysis.ipynb) 
+* 8.0. inflearn-newyear-event-text-analysis.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/8.0.%20inflearn-newyear-event-text-analysis.ipynb) 
