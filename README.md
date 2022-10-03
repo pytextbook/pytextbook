@@ -12,11 +12,7 @@
 
 * 6.2. soynlp로 명사추출해서 워드클라우드 그리기.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/6.2.%20soynlp%EB%A1%9C%20%EB%AA%85%EC%82%AC%EC%B6%94%EC%B6%9C%ED%95%B4%EC%84%9C%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.ipynb) 
 
-* 6.3. word2vec으로 단어유사도 보기.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/6.3.%20word2vec%EC%9C%BC%EB%A1%9C%20%EB%8B%A8%EC%96%B4%EC%9C%A0%EC%82%AC%EB%8F%84%20%EB%B3%B4%EA%B8%B0.ipynb) 
-
-* 6.4. 국민청원 투표수 이진분류.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/6.4.%20%EA%B5%AD%EB%AF%BC%EC%B2%AD%EC%9B%90%20%ED%88%AC%ED%91%9C%EC%88%98%20%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98.ipynb) 
-
-* 6.5. 국민청원 카테고리 분류.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/6.5.%20%EA%B5%AD%EB%AF%BC%EC%B2%AD%EC%9B%90%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%B6%84%EB%A5%98.ipynb) 
+* 6.3. 국민청원 투표수 이진분류.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/6.3.%20%EA%B5%AD%EB%AF%BC%EC%B2%AD%EC%9B%90%20%ED%88%AC%ED%91%9C%EC%88%98%20%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98.ipynb) 
 
 * 7.1. seoul-120-LDA.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/7.1.%20seoul-120-LDA.ipynb) 
 
