@@ -1,3 +1,28 @@
+<img src="pytextbook.jpg">
+
+```
+＜모두의 한국어 텍스트 분석 with 파이썬＞
+: 누구나 쉽게 다양한 한국어 텍스트 데이터를 분석할 수 있다!
+📍 예제와 프로젝트는 코랩에서 설치 없이, 클릭만으로 바로 실행
+📍 텍스트 분석에 필요한 파이썬 기초와 필수 라이브러리 학습
+📍 텍스트 분석 분야 훌륭한 멘토들의 공들인 설명
+📍 네 가지 다른 한국어 데이터를 가지고 실제 프로젝트 진행
+(1) 연합뉴스 타이틀 주제 분류 
+(2) 국민청원 텍스트 분석 
+(3) 120다산콜재단 데이터 토픽 모델링과 유사도 분석 
+(4) 인프런의 이벤트 댓글 텍스트 군집 분석
+```
+
+* [자세한 도서 정보는 온라인 서점 참고😀]
+* 교보문고 https://bit.ly/3MQ3cNi
+* Yes24  https://bit.ly/3MrUdk0
+* 알라딘 https://bit.ly/3OsPTDQ
+* 인터파크 https://bit.ly/3Ou97Je
+* 영풍문고 https://bit.ly/3pTNHLd
+* [저자의 텍스트 분석 강의 목록(유튜브) 제공❗️] https://bit.ly/pytextbook-youtube
+
+----------
+
 * 2.0. python-string.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/2.0.%20python-string.ipynb) 
 
 * 3.1. pandas.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/3.1.%20pandas.ipynb) 
